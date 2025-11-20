@@ -3,11 +3,8 @@ layout: home
 title: "Home"
 ---
 
-Hi, I'm **Kaarthik Abhinav Balakrishnan**.
+Hi, I'm **Kaarthik Abhinav Balakrishnan** — a computational neuroscientist and aspiring neurotech/BCI engineer.
 
-Hi, I'm **Kaarthik Abhinav Balakrishnan**.
-
-I'm a computational neuroscientist and aspiring neurotech/BCI engineer.  
 I work on neural data, brain–computer interfaces, and tools that make science easier to do and share.
 
 - [About me](/about/)
