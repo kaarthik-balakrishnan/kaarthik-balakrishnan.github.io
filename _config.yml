@@ -1,5 +1,15 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Kaarthik Abhinav Balakrishnan"
+description: "Computational neuroscience, BCIs, and curious experiments."
 url: "https://kaarthik-balakrishnan.github.io"
-baseurl: ""   # must be empty for a user site
+baseurl: ""          # important for username.github.io
+theme: minima        # use GitHub's built-in Jekyll theme
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - publications.md
+  - blog.md
+
+exclude:
+  - old_Projects
