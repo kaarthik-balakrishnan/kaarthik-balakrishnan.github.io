@@ -2,10 +2,11 @@
 layout: home
 title: "Home"
 ---
-<!-- Home page: moved about section content here -->
 
-<section class="home-about">
-<img src="{{ "/assets/img/profile.jpg" | relative_url }}" alt="Photo of Kaarthik Abhinav Balakrishnan" class="about-photo">
+<!-- Home page: moved about section content here; use markdown processing inside the block -->
+
+<div class="home-about" markdown="1">
+![Photo of Kaarthik Abhinav Balakrishnan]({{ "/assets/img/profile.jpg" | relative_url }}){:class="about-photo"}
 
 I'm **Kaarthik Abhinav Balakrishnan**, a computational neuroscientist and PhD candidate in Biophysics at The Ohio State University.
 
@@ -23,4 +24,4 @@ Long term, I want to **build neurotechnology and interpretable AI systems**: too
 
 Outside the lab, I like thinking about **intelligence as a physical process**, tinkering with side projects in neurotech and AI, and occasionally over-analyzing Beatles songs.
 
-</section>
+</div>
