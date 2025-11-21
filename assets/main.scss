@@ -1,0 +1,99 @@
+---
+# Front matter so Jekyll processes this file
+---
+
+@import "minima";
+
+/* Layout container tweaks */
+.page-content {
+  padding: 2rem 1rem 3rem;
+}
+
+/* Hero section */
+.hero {
+  padding: 4rem 1rem 3rem;
+}
+
+.hero-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.hero-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  opacity: 0.7;
+  margin-bottom: 0.5rem;
+}
+
+.hero-title {
+  font-size: 2.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-subtitle {
+  font-size: 1.05rem;
+  max-width: 40rem;
+  opacity: 0.9;
+}
+
+/* Buttons */
+.hero-buttons {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.hero-button {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  border-radius: 999px;
+  border: 1px solid #ccc;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.hero-button.primary {
+  background: #111;
+  color: #fff;
+  border-color: #111;
+}
+
+/* Secondary sections */
+.home-sections {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1rem 1rem 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}
+
+.home-section h2 {
+  margin-bottom: 0.5rem;
+}
+
+.home-links {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem 1rem 0;
+}
+
+.home-links ul {
+  list-style: disc;
+  padding-left: 1.2rem;
+}
+
+/* Make it a bit tighter on very small screens */
+@media (max-width: 600px) {
+  .hero {
+    padding-top: 2.5rem;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+  }
+}

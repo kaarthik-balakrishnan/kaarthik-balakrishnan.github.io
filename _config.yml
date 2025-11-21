@@ -2,7 +2,8 @@ title: "Kaarthik Abhinav Balakrishnan"
 description: "Computational neuroscience, BCIs, and curious experiments."
 url: "https://kaarthik-balakrishnan.github.io"
 baseurl: ""          # important for username.github.io
-theme: minima        # use GitHub's built-in Jekyll theme
+
+theme: minima
 
 header_pages:
   - index.md
@@ -13,3 +14,6 @@ header_pages:
 
 exclude:
   - old_Projects
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
