@@ -12,4 +12,9 @@ Below is a timeline scaffold — I'll pull exact dates and additional items from
 - **BS–MS, Physics**, IISER Pune — (dates: add from resume)
 - Additional education, fellowships, or positions — (add items from resume)
 
-You can place a PDF copy of your resume in `assets/` (for example `assets/KaarthikBalakrishnan_Resume_October2025.pdf`) and I can automatically extract and populate the timeline if you want. For now this scaffold keeps the `about` page focused on a chronological timeline rather than the full bio.
+Below are the education entries pulled from your resume (extracted automatically):
+
+- **PhD, Interdisciplinary Biophysics Graduate Program**, The Ohio State University — 2019–2025
+- **BS–MS Dual Degree, Physics**, Indian Institute of Science Education and Research (IISER) Pune — 2014–2019
+
+If you'd like I can also add professional positions (e.g. Graduate Research Assistant, dates), awards, or link the resume PDF directly from the page.
