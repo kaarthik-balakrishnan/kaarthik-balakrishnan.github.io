@@ -11,7 +11,9 @@ permalink: /projects/
 - Designed new **hardware and behavioral paradigms** to study how larval zebrafish navigate realistic temperature gradients, increasing experiment throughput by ~50%.  
 - Built scalable **Python analysis pipelines** to extract posture, bouts, and trajectories from long behavioral recordings across many thermal environments.  
 - Used **statistical and Markov models** to show how navigation strategies change across temperature and timescale, and linked these behaviors to distinct neural cell types with two-photon calcium imaging.  
-- Culminated in a first-author paper in *Current Biology* on the behavioral and circuit principles underlying thermal navigation. :contentReference[oaicite:5]{index=5}  
+ 
+
+- Culminated in a first-author paper in *Current Biology* on the behavioral and circuit principles underlying thermal navigation (see [Publications]({{ '/publications/#thermo-2025' | relative_url }})).
 
 ---
 
@@ -21,7 +23,9 @@ permalink: /projects/
 
 - Co-developed a **general ML framework** to discover low-dimensional task variables and latent states that explain both neural activity and behavior.  
 - Demonstrated ~**40% improvement in predictive accuracy** over standard methods while retaining interpretability of the discovered variables.  
-- Shared first-author credit on an *eLife* publication and presented the work at SfN and NIH BRAIN Initiative meetings. :contentReference[oaicite:6]{index=6}  
+ 
+
+- Shared first-author credit on an *eLife* publication and presented the work at SfN and NIH BRAIN Initiative meetings (see [Publications]({{ '/publications/#model-discovery-2023' | relative_url }})).
 
 ---
 
@@ -39,7 +43,9 @@ permalink: /projects/
 **Keywords:** complex systems, neural manifolds, interpretability  
 
 - Motivated by a background in **statistical mechanics and complex systems**, I am interested in applying manifold learning, causal inference, and feature visualization tools to both **biological and artificial networks**.  
-- Current explorations involve using geometric and dynamical-systems viewpoints to make high-dimensional neural representations more interpretable and controllable. :contentReference[oaicite:7]{index=7}  
+ 
+
+- Current explorations involve using geometric and dynamical-systems viewpoints to make high-dimensional neural representations more interpretable and controllable.
 
 ---
 
