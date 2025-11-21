@@ -2,45 +2,9 @@
 layout: default
 ---
 
-<section class="hero">
-  <div class="hero-inner">
-    <p class="hero-kicker">Computational neuroscience · Brain-computer interfaces · Curious experiments</p>
-    <h1 class="hero-title">{{ site.title }}</h1>
-    <p class="hero-subtitle">
-      I work on neural data, BCIs, and tools that make science easier to do and share.
-    </p>
-
-    <div class="hero-buttons">
-      <a class="hero-button primary" href="{{ "/about/" | relative_url }}">About me</a>
-      <a class="hero-button" href="{{ "/projects/" | relative_url }}">Projects</a>
-      <a class="hero-button" href="{{ "/publications/" | relative_url }}">Publications</a>
-    </div>
-  </div>
+<section class="home-intro">
+  <h1>{{ site.title }}</h1>
+  <p class="tagline">{{ site.description }}</p>
 </section>
 
-<section class="home-sections">
-  <div class="home-section">
-    <h2>What I work on</h2>
-    <p>
-      My background spans biophysics and computational neuroscience: larval zebrafish thermoregulation,
-      large-scale neural and behavioral data analysis, and machine-learning methods that link brain activity to behavior.
-    </p>
-  </div>
-
-  <div class="home-section">
-    <h2>What I'm excited about</h2>
-    <p>
-      Building neurotechnology and brain-computer interfaces that move from the lab into the world:
-      better tools for scientists, and eventually clinical systems that improve quality of life for people.
-    </p>
-  </div>
-</section>
-
-<section class="home-links">
-  <h2>Jump in</h2>
-  <ul>
-    <li><a href="{{ "/projects/" | relative_url }}">See selected projects</a></li>
-    <li><a href="{{ "/publications/" | relative_url }}">Browse publications</a></li>
-    <li><a href="{{ "/blog/" | relative_url }}">Read occasional writing</a></li>
-  </ul>
-</section>
+{{ content }}
