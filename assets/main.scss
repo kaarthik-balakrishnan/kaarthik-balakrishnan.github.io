@@ -97,3 +97,53 @@
     font-size: 2rem;
   }
 }
+
+/* Styles for hero section with photo */
+.hero-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: center;
+}
+
+/* Wrapper for the hero photo to control alignment */
+.hero-photo-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.hero-photo {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+/* Styles for the photo on the About page */
+.about-photo {
+  float: right;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0.5rem 0 1rem 1.5rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+@media (max-width: 800px) {
+  .hero-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-photo {
+    /* Add space above photo on small screens */
+    margin-top: 1.5rem;
+  }
+
+  .about-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem;
+  }
+}
