@@ -6,15 +6,9 @@ permalink: /about/
 
 ## Timeline
 
-Below is a timeline scaffold — I'll pull exact dates and additional items from your resume if you want me to place them precisely.
+Below is a concise timeline of your formal education (extracted from your resume):
 
-- **PhD Candidate, Biophysics**, The Ohio State University — (dates: add from resume)
-- **BS–MS, Physics**, IISER Pune — (dates: add from resume)
-- Additional education, fellowships, or positions — (add items from resume)
+- 2019–2025 — PhD, Interdisciplinary Biophysics Graduate Program, The Ohio State University (Columbus, OH)
+- 2014–2019 — BS–MS Dual Degree, Physics, Indian Institute of Science Education and Research (IISER) Pune (Pune, India)
 
-Below are the education entries pulled from your resume (extracted automatically):
-
-- **PhD, Interdisciplinary Biophysics Graduate Program**, The Ohio State University — 2019–2025
-- **BS–MS Dual Degree, Physics**, Indian Institute of Science Education and Research (IISER) Pune — 2014–2019
-
-If you'd like I can also add professional positions (e.g. Graduate Research Assistant, dates), awards, or link the resume PDF directly from the page.
+If you'd like, I can add professional appointments (e.g. Graduate Research Assistant: Feb 2022–Jul 2025), honors, or link a PDF of your resume on this page. Tell me which additional items you want included.
