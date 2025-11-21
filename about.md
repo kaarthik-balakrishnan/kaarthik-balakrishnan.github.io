@@ -3,7 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-## Timeline
 
 Here are the different degrees that I have formally obtained in the past few years.
 
