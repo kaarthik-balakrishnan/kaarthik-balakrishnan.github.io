@@ -4,6 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
-I'm **Kaarthik**, currently working at the intersection of computational neuroscience, biophysics, and brain–computer interfaces.
+<img src="{{ "/assets/img/profile.jpg" | relative_url }}" 
+     alt="Photo of Kaarthik Abhinav Balakrishnan" 
+     class="about-photo">
 
-(Add a short 2–3 paragraph bio here: where you studied, what your PhD focused on, what you're excited to build next, etc.)
+I'm **Kaarthik Abhinav Balakrishnan**, a computational neuroscientist and BCI-focused builder currently finishing my PhD in Biophysics at The Ohio State University.
