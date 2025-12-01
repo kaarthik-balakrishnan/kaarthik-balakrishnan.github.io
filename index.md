@@ -8,9 +8,9 @@ title: "Home"
 <section class="home-about">
 	<img src="{{ "/assets/img/profile.jpg" | relative_url }}" alt="Photo of Kaarthik Abhinav Balakrishnan" class="about-photo" />
 
-<p>I'm <strong>Kaarthik Abhinav Balakrishnan</strong>, a computational neuroscientist and PhD candidate in Biophysics at The Ohio State University.</p>
+<p>I'm <strong>Kaarthik Abhinav Balakrishnan</strong>, a computational neuroscientist and I received mt PhD in Biophysics at The Ohio State University in August 2025.</p>
 
-<p>My path started in <strong>fundamental physics</strong> — quantum mechanics, field theory, and general relativity — driven by the belief that understanding basic laws would explain everything else. Over time, ideas from <strong>statistical mechanics and complex systems</strong> (especially Philip Anderson’s <em>More is Different</em>) convinced me that the most interesting phenomena don’t live in the equations themselves, but in the <strong>emergent behavior of many interacting units</strong>.</p>
+<p>My path started with my interests in the questions of <strong>fundamental physics</strong> - quantum mechanics, field theory, and general relativity - driven by the belief that understanding basic laws would explain everything else. Over time, ideas from <strong>statistical mechanics and complex systems</strong> (especially Philip Anderson’s <em>More is Different</em>) convinced me that the most interesting phenomena don't pertain to the most fundamental particles, but in the <strong>emergent behavior of many interacting units</strong>.</p>
 
 <p>That perspective naturally pulled me toward the <strong>brain</strong>: a physical system where emergent computation is the whole point. During my BS–MS in Physics at IISER Pune and my PhD at OSU, I built that bridge from theory to data, moving into <strong>neuroscience, machine learning, and large-scale behavioral analysis</strong>.</p>
 
