@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Home"
-permalink: ""
+permalink: "/home/"
 ---
 
 <!-- Home page: about block in explicit HTML to avoid markdown-processing inconsistencies -->
